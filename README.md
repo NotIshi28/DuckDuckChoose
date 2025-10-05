@@ -35,6 +35,8 @@ There isn’t one.
 **Access the game on itch.io:**  
 [https://notishi28.itch.io/duck-duck-choose](https://notishi28.itch.io/duck-duck-choose) 👈
 
+All the assets present in the game are made by us.
+
 ---
 
 ## Developers
